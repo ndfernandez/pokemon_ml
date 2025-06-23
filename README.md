@@ -43,6 +43,6 @@ This project is licensed under the MIT License – see the LICENSE file in Githu
 
 - Huge thanks to **Dr. Nancy Ruzycki AKA: Dr. 'R' and others** at the **University of Florida** for leading the first open source course and materials aligned with the Florida AI CTE Career and Technical Education Frameworks *1000: Artificial Intelligence in the World [Development]* 
 - Inspired by the Python Prediction Project from **Benjamin Fredrick David**: [Watch here](https://youtu.be/6KqLGNkA7u0?si=YD9J1depF7VEhP-h)
-- Special appreciation to **JCardd** on GitHub for his Pokémon dataset that was updated and used to power this project.
+- Special appreciation to **JCardd** on GitHub for his Pokémon dataset that was updated and was used to power this project.
 - Shout out to **LucasIsRed!**: [Link](https://github.com/LucasIsRed) for helping me naviate the world of Pokémon using Python, AI & Machine learning!
  
